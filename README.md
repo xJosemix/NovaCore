@@ -2,4 +2,5 @@
 - Jose Movilla
 - Mateo Narvaez
 - David Lopez
-- Cristian Manosalva
+- Cristian Camilo Manosalva Perez
+# Franklin Martinez Avila Docente
